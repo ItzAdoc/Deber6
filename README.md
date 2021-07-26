@@ -162,10 +162,11 @@ __3. El toroide de la figura 12-42 tiene una sección transversal circular ɸ =6
 * La carga de un capacitor se da cuando se cierra un circuito, ya que el capacitor por defecto está descargado, el voltaje empieza en 0 en el instante en el que se cierra el interruptor y aumenta de manera gradual. Por el contrario, la corriente se dispara y disminuye a cero. 
 La descarga se da cuando se abre el circuito, es decir el capacitor empieza cargado y se empieza a descargar progresivamente hasta ser casi cero, con la corriente sucede lo mismo ya que al estar cargado funciona por un breve instante como fuente de voltaje, por consiguiente, tiene una corriente a cuál será negativa porque es opuesta a la dirección inicial. 
 
+* La fórmula para calcular los valores de voltaje y corriente dependerá de como este el capacitor, es decir si esta descargado, cargado, con un voltaje inicial o cuando esta estabilizado 
 
-* B
-* C
-* D
+* Debido a que muchos dispositivos y sistemas eléctricos utilizan forma de onda de pulso como señales, las cuales son voltajes o corrientes cambiantes, es importante saber cómo resolver esta clase de ejercicios 
+
+* Cuando un capacitor alcanza el equilibrio en voltaje y corriente se dice que es abierto debido a que tienen voltaje, pero no tiene pasa de corriente.
 * E
 * F
 * G
