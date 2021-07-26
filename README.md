@@ -137,10 +137,6 @@ __41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso
 
 ![](https://github.com/ItzAdoc/ImaD6/blob/main/11.41a.PNG)
 
-__43. Se aplica un escalón al circuito de la figura 11-66. Si R 150Ω y C 20 pF, estime el tiempo que tarda en subir el voltaje de salida.__
-
-
-
    __CÁPITULO 8__
  
 __1	Vea la figura 12-41:__
