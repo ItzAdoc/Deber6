@@ -125,6 +125,12 @@ c. ¿Cuál es el VRP?
 
 ![](https://github.com/ItzAdoc/ImaD6/blob/main/11.39a.PNG)
 
+__40. Repita el problema 39 para la forma de onda de la figura 11-63.__
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/11.40.PNG)
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/11.40a.PNG)
+
 __41. Determine el tiempo de subida, de bajada y el ancho de pulso para el pulso de la figura 11-64.__
 
 ![](https://github.com/ItzAdoc/ImaD6/blob/main/11.41.PNG)
