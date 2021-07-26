@@ -50,7 +50,6 @@ c. ¿A qué se parece un capacitor en estado estable de cd?
 
 19. El capacitor de la figura 11-50 tiene un voltaje inicial. Si V0  10 V, ¿cuál es la corriente justo después de que el interruptor se ha cerrado?. 
 
-
 25. Un capacitor de 4.7 µF se carga a 43 volts. Si un resistor de 39 kΩ se conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta el resistor?
 
 ![](https://github.com/ItzAdoc/ImaD6/blob/main/11.25.PNG)
