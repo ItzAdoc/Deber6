@@ -79,6 +79,8 @@ __29. Los capacitores de la figura 11-55 están descargados. El interruptor se c
 
 ![](https://github.com/ItzAdoc/ImaD6/blob/main/11.29b.PNG)
 
+![](https://github.com/ItzAdoc/ImaD6/blob/main/11.29c.PNG)
+
 __31. Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.__
 
 ![](https://github.com/ItzAdoc/ImaD6/blob/main/11.31.PNG)
