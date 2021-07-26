@@ -29,11 +29,12 @@
   
 1. El capacitor de la figura 11-50 está descargado.
 
-a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
+ a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
 
-b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado?
+ b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado?
   
-3. a. ¿A qué se parece un capacitor descargado en el instante que se conecta el interruptor?
+3. 
+a. ¿A qué se parece un capacitor descargado en el instante que se conecta el interruptor?
  
 b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?
 
