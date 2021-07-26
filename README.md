@@ -5,18 +5,20 @@
 
  *__Objetivos Generales__*
  
-*
+* Explicar que sucede con los potenciómetros en todos los casos posibles: Cuando un capacitor empieza descargado, cargado, voltaje inicial y cuando se estabiliza. Respuesta al pulso de circuitos RC simples. 
 
-*
+* Explicar todo lo relacionado a campos magnéticos como: densidad de flujo, circuitos magnéticos en serie y serie-paralelo, fuerza de atracción y magnetismo. 
  
 *__Objetivos Específicos__*
 
-*
-
-*
-
-*
-
+* Describir la carga y descarga de circuitos RC simples.
+* Determinar los voltajes y corrientes en circuitos RC simples durante la carga y descarga.
+* Calcular la respuesta al pulso de circuitos RC simples.
+* describir por qué un capacitor parece un circuito abierto en estado estable de cd.
+* Describir los campos magnéticos en forma cuantitativa en términos del flujo y la densidad de flujo.
+* Explicar qué son los circuitos magnéticos y por qué se usan. 
+* Resolver circuitos magnéticos en serie, serie-paralelo.
+* Explicar la teoría de dominio del magnetismo.
 
  
  2. Marco Teórico
@@ -157,6 +159,17 @@ __3. El toroide de la figura 12-42 tiene una sección transversal circular ɸ =6
 
 5. Conclusiones 
 
+* La carga de un capacitor se da cuando se cierra un circuito, ya que el capacitor por defecto está descargado, el voltaje empieza en 0 en el instante en el que se cierra el interruptor y aumenta de manera gradual. Por el contrario, la corriente se dispara y disminuye a cero. 
+La descarga se da cuando se abre el circuito, es decir el capacitor empieza cargado y se empieza a descargar progresivamente hasta ser casi cero, con la corriente sucede lo mismo ya que al estar cargado funciona por un breve instante como fuente de voltaje, por consiguiente, tiene una corriente a cuál será negativa porque es opuesta a la dirección inicial. 
+
+
+* B
+* C
+* D
+* E
+* F
+* G
+* H
 
 
 6. Bibliografía
