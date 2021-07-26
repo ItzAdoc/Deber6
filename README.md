@@ -27,8 +27,30 @@
  
   __CÁPITULO 7__
   
+1. El capacitor de la figura 11-50 está descargado.
+
+a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
+
+b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado?
   
-  25. Un capacitor de 4.7 µF se carga a 43 volts. Si un resistor de 39 kΩ se conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta el resistor?
+3. a. ¿A qué se parece un capacitor descargado en el instante que se conecta el interruptor?
+ 
+b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?
+
+c. ¿A qué se parece un capacitor en estado estable de cd?
+
+9. Repita el problema 8 para el circuito de la figura 11-52.
+
+11. Determine la constante de tiempo para el circuito de la figura 11-50. ¿Cuánto tiempo (en segundos) tardará el capacitor en cargarse?
+
+15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra. El capacitor tarda 1 s para cargarse. Si E  75 V, determine R y C. 
+
+17. Para la figura 11-2, determine E, R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra es de 3.679 mA, y el capacitor se carga a 45 volts en estado estable. 
+
+19. El capacitor de la figura 11-50 tiene un voltaje inicial. Si V0  10 V, ¿cuál es la corriente justo después de que el interruptor se ha cerrado?. 
+
+
+25. Un capacitor de 4.7 µF se carga a 43 volts. Si un resistor de 39 kΩ se conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta el resistor?
 
 27. Para la figura 11-54, sea E=200 V, R2= 1kΩ y C=0.5 µF. Después de que el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2. 
 
