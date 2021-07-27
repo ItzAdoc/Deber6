@@ -23,6 +23,7 @@
  
  2. Marco Teórico
 
+![](https://github.com/ItzAdoc/ImaD6/blob/main/m12.jpg)
  3. Resolución de los ejercicios
 
  __* Resolver los ejercicios del capítulo 11 y 12 del libro Análisis de Circuitos de Allan H. Robbins__
