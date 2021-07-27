@@ -37,11 +37,17 @@ __1. El capacitor de la figura 11-50 está descargado.__
   
 __3.__
 
-a. ¿A qué se parece un capacitor descargado en el instante que se conecta el interruptor?
- 
-b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?
+*a. ¿A qué se parece un capacitor descargado en el instante que se conecta el interruptor?*
 
-c. ¿A qué se parece un capacitor en estado estable de cd?
+Cortocircuito
+ 
+*b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?*
+
+Fuente de Voltaje
+
+*c. ¿A qué se parece un capacitor en estado estable de cd?*
+
+__
 
 __9. Repita el problema 8 para el circuito de la figura 11-52.__
 
