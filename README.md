@@ -152,6 +152,15 @@ b. Si ɸ= 28 mWb, ¿cuál es la densidad de flujo en teslas?
 __3. El toroide de la figura 12-42 tiene una sección transversal circular ɸ =628 µWb. Si r1=8 cm y r2=12 cm, ¿cuál es la densidad de flujo en teslas?__  
 
 ![](https://github.com/ItzAdoc/ImaD6/blob/main/12.3.PNG)
+
+5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B 1.45 T, ¿qué valor tiene ɸ en webers?
+
+7. Para la sección del núcleo de hierro de la figura 12-45, si ɸ1= 12 mWb y ɸ3= 2 mWb, ¿cuánto vale B2?
+
+9. Un núcleo con dimensiones de 2 cm x 3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene ɸ si el núcleo es de hierro fundido? ¿Si es de acero fundido? ¿Si es de hoja de acero con FA=0.94?
+
+11. Considere una vez más la figura 12-42. Si I=10 A, N=40 vueltas, r1=5 cm y r2=7 cm, ¿qué valor tiene H en amperes-vuelta por metro?
+
    
 4. Video
 
