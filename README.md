@@ -186,7 +186,7 @@ __9. Un núcleo con dimensiones de 2 cm x 3 cm tiene una intensidad magnética d
 
 __11. Considere una vez más la figura 12-42. Si I=10 A, N=40 vueltas, r1=5 cm y r2=7 cm, ¿qué valor tiene H en amperes-vuelta por metro?__
 
-
+![](https://github.com/ItzAdoc/ImaD6/blob/main/11.12.jpg)
 __13. Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.__
 
 
