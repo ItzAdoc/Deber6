@@ -7,7 +7,7 @@
  
 * Explicar que sucede con los potenciómetros en todos los casos posibles: Cuando un capacitor empieza descargado, cargado, voltaje inicial y cuando se estabiliza. Respuesta al pulso de circuitos RC simples. 
 
-* Explicar todo lo relacionado a campos magnéticos como: densidad de flujo, circuitos magnéticos en serie y serie-paralelo, fuerza de atracción y magnetismo. 
+* Explicar todo lo relacionado a campos magnéticos como: densidad de flujo, circuitos magnéticos en serie y serie-paralelo, y campos magneticos. 
  
 *__Objetivos Específicos__*
 
@@ -167,9 +167,11 @@ La descarga se da cuando se abre el circuito, es decir el capacitor empieza carg
 * Debido a que muchos dispositivos y sistemas eléctricos utilizan forma de onda de pulso como señales, las cuales son voltajes o corrientes cambiantes, es importante saber cómo resolver esta clase de ejercicios 
 
 * Cuando un capacitor alcanza el equilibrio en voltaje y corriente se dice que es abierto debido a que tienen voltaje, pero no tiene pasa de corriente.
-* E
-* F
-* G
+
+* Dentro de los campos magnéticos existe el flujo magnético, el cual se calcula a partir de la densidad de flujo, ya que la densidad de flujo es el flujo por unidad de área, y por ello para encontrar esta densidad es necesario el flujo total que circula perpendicularmente través de una área.  
+* Un circuito magnético es un camino cerrado construido por un material ferromagnético sobre el que acuta una fuerza magnetomotriz. Son importantes porque son la base teórica para la construcción de trasformadores los cuales se encuentran prácticamente en todas partes como: motores, generadores, etc.  
+
+* Los circuitos serie-paralelo son analizados mediante el principio de suma de flujos y la ley de Ampére. Mientras que los circuitos en serie son más complejo debido a que se necesita ɸ y H al mismo tiempo, por ello se usa el método de prueba y error. 
 * H
 
 
