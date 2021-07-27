@@ -223,7 +223,7 @@ __29. Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2.
    
 4. Video
 
-*
+* https://youtu.be/F-luRdKZipg
 
 5. Conclusiones 
 
