@@ -23,8 +23,6 @@
  
  2. Marco Teórico
 
-![](https://github.com/ItzAdoc/ImaD6/blob/main/MT11.jpeg)
-
 ![](https://github.com/ItzAdoc/ImaD6/blob/main/m12.jpg)
  3. Resolución de los ejercicios
 
@@ -135,7 +133,7 @@ __33. Para el circuito de la figura 11-54, el capacitor está inicialmente desca
 
 __35. Determine los voltajes del capacitor y la corriente de la fuente para el circuito de la figura 11-60 después de que se alcanzó el estado estable__
 
-![](https://github.com/ItzAdoc/ImaD6/blob/main/11.35a.PNG)
+![](https://github.com/ItzAdoc/ImaD6/blob/main/11.35.PNG)
 
 __37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5 V,  R= 750kΩ y la alarma es activada en 15 s cuando vc=3.8 V, ¿qué valor tiene C?__
 
@@ -182,9 +180,15 @@ __3. El toroide de la figura 12-42 tiene una sección transversal circular ɸ =6
 
 __5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B 1.45 T, ¿qué valor tiene ɸ en webers?__
 
+![](https://github.com/ItzAdoc/ImaD6/blob/main/5.12.jpg)
+
 __7. Para la sección del núcleo de hierro de la figura 12-45, si ɸ1= 12 mWb y ɸ3= 2 mWb, ¿cuánto vale B2?__
 
+![](https://github.com/ItzAdoc/ImaD6/blob/main/7.12.jpg)
+
 __9. Un núcleo con dimensiones de 2 cm x 3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene ɸ si el núcleo es de hierro fundido? ¿Si es de acero fundido? ¿Si es de hoja de acero con FA=0.94?__
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/9.12.jpg)
 
 __11. Considere una vez más la figura 12-42. Si I=10 A, N=40 vueltas, r1=5 cm y r2=7 cm, ¿qué valor tiene H en amperes-vuelta por metro?__
 
@@ -192,12 +196,19 @@ __11. Considere una vez más la figura 12-42. Si I=10 A, N=40 vueltas, r1=5 cm y
 
 __13. Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.__
 
+![](https://github.com/ItzAdoc/ImaD6/blob/main/13.12.jpg)
 
 __15. Encuentre la corriente I en la figura 12-48 si ɸ=0.16 mWb.__
 
+![](https://github.com/ItzAdoc/ImaD6/blob/main/15.12.jpg)
+
 __17. Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para ɸ=0.128 mWb. No tome en cuenta el desbordamiento.__
 
-__19 dudoso ese símbolo__
+![](https://github.com/ItzAdoc/ImaD6/blob/main/17.12.jpg)
+
+__19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm x 1.5 cm, lg = 0.3 mm, la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.__
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/19.12.jpg)
 
 __21. Para el circuito de la figura 12-51, ɸ=30 x µWb y N=2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.__
 
@@ -212,7 +223,7 @@ __29. Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2.
    
 4. Video
 
-* https://youtu.be/F-luRdKZipg
+*
 
 5. Conclusiones 
 
