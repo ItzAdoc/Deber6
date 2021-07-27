@@ -165,7 +165,7 @@ __11. Considere una vez más la figura 12-42. Si I=10 A, N=40 vueltas, r1=5 cm y
 __13. Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.__
 
 
-__15. Encuentre la corriente I en la figura 12-48 si ɸ=0.16 mWb.
+__15. Encuentre la corriente I en la figura 12-48 si ɸ=0.16 mWb.__
 
 __17. Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para ɸ=0.128 mWb. No tome en cuenta el desbordamiento.__
 
