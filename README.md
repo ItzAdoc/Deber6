@@ -153,32 +153,33 @@ __3. El toroide de la figura 12-42 tiene una sección transversal circular ɸ =6
 
 ![](https://github.com/ItzAdoc/ImaD6/blob/main/12.3.PNG)
 
-5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B 1.45 T, ¿qué valor tiene ɸ en webers?
-7. Para la sección del núcleo de hierro de la figura 12-45, si ɸ1= 12 mWb y ɸ3= 2 mWb, ¿cuánto vale B2?
+__5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B 1.45 T, ¿qué valor tiene ɸ en webers?__
 
-9. Un núcleo con dimensiones de 2 cm x 3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene ɸ si el núcleo es de hierro fundido? ¿Si es de acero fundido? ¿Si es de hoja de acero con FA=0.94?
+__7. Para la sección del núcleo de hierro de la figura 12-45, si ɸ1= 12 mWb y ɸ3= 2 mWb, ¿cuánto vale B2?__
 
-11. Considere una vez más la figura 12-42. Si I=10 A, N=40 vueltas, r1=5 cm y r2=7 cm, ¿qué valor tiene H en amperes-vuelta por metro?
+__9. Un núcleo con dimensiones de 2 cm x 3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene ɸ si el núcleo es de hierro fundido? ¿Si es de acero fundido? ¿Si es de hoja de acero con FA=0.94?__
 
-
-13. Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
+__11. Considere una vez más la figura 12-42. Si I=10 A, N=40 vueltas, r1=5 cm y r2=7 cm, ¿qué valor tiene H en amperes-vuelta por metro?__
 
 
-15. Encuentre la corriente I en la figura 12-48 si ɸ=0.16 mWb.
+__13. Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.__
 
-17. Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para ɸ=0.128 mWb. No tome en cuenta el desbordamiento.
 
-19 dudoso ese símbolo
+__15. Encuentre la corriente I en la figura 12-48 si ɸ=0.16 mWb.
 
-21. Para el circuito de la figura 12-51, ɸ=30 x µWb y N=2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.
+__17. Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para ɸ=0.128 mWb. No tome en cuenta el desbordamiento.__
 
-23. Una segunda bobina de 450 vueltas con I2=4 amperes se devana en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente I1.
+__19 dudoso ese símbolo__
 
-25. Si el circuito de la figura 12-53 no tiene espacio y ɸ3= 0.2 mWb, encuentre I.
+__21. Para el circuito de la figura 12-51, ɸ=30 x µWb y N=2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.__
 
-27. Si NI=644 Av para el núcleo de acero fundido de la figura 12-54, encuentre el flujo, ɸ.
+__23. Una segunda bobina de 450 vueltas con I2=4 amperes se devana en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente I1.__
 
-29. Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2.5 cm y se requiere una fuerza de 2 libras para cerrar el espacio, ¿cuánto flujo se necesita (en webers)?
+__25. Si el circuito de la figura 12-53 no tiene espacio y ɸ3= 0.2 mWb, encuentre I.__
+
+__27. Si NI=644 Av para el núcleo de acero fundido de la figura 12-54, encuentre el flujo, ɸ.__
+
+__29. Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2.5 cm y se requiere una fuerza de 2 libras para cerrar el espacio, ¿cuánto flujo se necesita (en webers)?__
 
    
 4. Video
