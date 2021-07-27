@@ -172,7 +172,8 @@ La descarga se da cuando se abre el circuito, es decir el capacitor empieza carg
 * Un circuito magnético es un camino cerrado construido por un material ferromagnético sobre el que acuta una fuerza magnetomotriz. Son importantes porque son la base teórica para la construcción de trasformadores los cuales se encuentran prácticamente en todas partes como: motores, generadores, etc.  
 
 * Los circuitos serie-paralelo son analizados mediante el principio de suma de flujos y la ley de Ampére. Mientras que los circuitos en serie son más complejo debido a que se necesita ɸ y H al mismo tiempo, por ello se usa el método de prueba y error. 
-* H
+
+* Una forma de medir la fuerza del campo magnético es por medio del uso del efecto Hall el cual se produce cuando se ejerce un campo magnético transversal sobre un cable por el que circulan cargas.
 
 
 6. Bibliografía
