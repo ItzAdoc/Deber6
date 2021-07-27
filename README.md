@@ -215,13 +215,23 @@ __19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm x 1.5 cm, lg = 0
 
 __21. Para el circuito de la figura 12-51, ɸ=30 x µWb y N=2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I.__
 
+![](https://github.com/ItzAdoc/ImaD6/blob/main/21.12.jpg)
+
 __23. Una segunda bobina de 450 vueltas con I2=4 amperes se devana en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente I1.__
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/23.12.jpg)
 
 __25. Si el circuito de la figura 12-53 no tiene espacio y ɸ3= 0.2 mWb, encuentre I.__
 
+![](https://github.com/ItzAdoc/ImaD6/blob/main/25.12.jpg)
+
 __27. Si NI=644 Av para el núcleo de acero fundido de la figura 12-54, encuentre el flujo, ɸ.__
 
+![](https://github.com/ItzAdoc/ImaD6/blob/main/27.12.jpg)
+
 __29. Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2.5 cm y se requiere una fuerza de 2 libras para cerrar el espacio, ¿cuánto flujo se necesita (en webers)?__
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/29.12.jpg)
 
    
 4. Video
