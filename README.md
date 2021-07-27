@@ -31,35 +31,53 @@
   
 __1. El capacitor de la figura 11-50 está descargado.__
 
- a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
-
- b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado?
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej1.jpg)
   
 __3.__
 
-*a. ¿A qué se parece un capacitor descargado en el instante que se conecta el interruptor?*
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej3.jpg)
 
-Cortocircuito
- 
-*b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?*
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej5.jpg)
 
-Fuente de Voltaje
+__7. Repita el problema 6 si R=500Ω, C=25uF y E = 45V, pero ahora calcule y grafique valores en t = 0+ s, 20, 40, 60, 80 y 100ms.__
 
-*c. ¿A qué se parece un capacitor en estado estable de cd?*
-
-__
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej7.jpg)
 
 __9. Repita el problema 8 para el circuito de la figura 11-52.__
 
-__11. Determine la constante de tiempo para el circuito de la figura 11-50. ¿Cuánto tiempo (en segundos) tardará el capacitor en cargarse?__
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej9.jpg)
 
-__15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra. El capacitor tarda 1 s para cargarse. Si E  75 V, determine R y C.__
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej11.jpg)
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej13.jpg)
+
+__15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra. El capacitor tarda 1 s para cargarse. Si E=75 V, determine R y C.__
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej15.jpg)
 
 __17. Para la figura 11-2, determine E, R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra es de 3.679 mA, y el capacitor se carga a 45 volts en estado estable.__ 
 
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej17.1.jpg)
 
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej17.2.jpg)
 
-__19. El capacitor de la figura 11-50 tiene un voltaje inicial. Si V0  10 V, ¿cuál es la corriente justo después de que el interruptor se ha cerrado?.__
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej19.jpg)
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej21.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej21.2.jpg)
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej22.1.jpg)
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej22.2.jpg)
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej22.3.jpg)
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej22.4.jpg)
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej22.5.jpg)
+
+![](https://github.com/ItzAdoc/ImaD6/blob/main/Ej22.6.jpg)
 
 __25. Un capacitor de 4.7 µF se carga a 43 volts. Si un resistor de 39 kΩ se conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta el resistor?__
 
